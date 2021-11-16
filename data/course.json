@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "769998c8-1926-6fda-1106-d821ed61147a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Anthropology of War and Peace",
+  "course_description": "This class has been reorganized to focus primarily on the War in Iraq. As in previous years, the class still examines war in cross-cultural perspective, asking whether war is intrinsic to human nature, what causes war, how particular cultural experiences of war differ, and how war has affected American culture.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.217",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
